@@ -1,0 +1,51 @@
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900px;
+    font-style: normal;
+  }
+body {
+    background-color: rgba(0, 0, 0, 0.952) ;
+}
+
+main {
+    background-color: rgba(128, 128, 128, 0.192);
+   text-align: center;
+   width: 450px;
+   height: 560px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+ }
+
+h2 {
+    color:  hsl(0, 0%, 100%);
+}
+
+h3 {
+  color:  hsl(75, 94%, 57%);
+}
+
+p {
+    color: rgba(255, 255, 255, 0.705);
+}
+
+.imagem {
+    border-radius: 300px;
+}
+
+.button {
+    background-color: rgba(128, 128, 128, 0.603); 
+    color: white; 
+    border: none; 
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
